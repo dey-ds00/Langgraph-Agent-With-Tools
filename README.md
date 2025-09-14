@@ -4,13 +4,13 @@ This project demonstrates how to build an agentic workflow using LangGraph LangC
 
 The agent can:
 
-  Query Wikipedia for factual information.
+  **Query Wikipedia for factual information.**
 
-  Query Arxiv for research papers.
+  **Query Arxiv for research papers.**
 
-  Use custom tools (e.g., Tavily).
+  **Use custom tools (e.g., Tavily).**
 
-  Process user queries through a graph-based workflow.
+  **Process user queries through a graph-based workflow.**
 
 🚀 Features
 
@@ -45,3 +45,4 @@ The agent can:
       Add more domain-specific tools (e.g., weather, finance, news).
       Integrate memory into the workflow.
       Extend graph visualization for debugging agent workflows.
+
