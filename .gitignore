@@ -11,5 +11,3 @@ wheels/
 # Environment Variable
 .env
 
-# Jupyter stuff
-.ipynb_checkpoints
